@@ -1,0 +1,5 @@
+
+fastapi
+sqlmodel
+sqlite3
+uvicorn
